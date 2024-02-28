@@ -1,0 +1,24 @@
+body{
+background-color: rgba(255, 239, 230, 1);
+}
+u{
+
+    stroke-width: 2px;
+}
+p{
+    font-family: "Wendey One";
+    font-style: normal;
+    font-size: 32px;
+    margin-left: 2%;
+}
+img{
+    margin-top: 50px;
+    margin-left: 78%;
+}
+button{
+    border-radius: 25px;
+    height: 50px;
+    width: 250px;
+    margin-top: 0%;
+    margin-left: 40px;
+}
