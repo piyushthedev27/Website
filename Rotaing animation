@@ -1,0 +1,40 @@
+<html>
+    <head>
+        <title></title>
+        <style>
+            .container{
+                height: 600px;
+                width: 100%;
+                margin-top: 70px;
+                .box{
+                    border-radius: 24px;
+                    float: left;
+                    margin-left: 150px;
+                }
+                .box2{
+                    border-radius: 24px;
+                    float: left;
+                    
+                }
+                .box3{
+                    border-radius: 24px;
+                    margin-top: 10px;
+                    margin-left: 35px;
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <div class="box">
+                <img src="file:///C:/Users/Anshu/Desktop/Website/Website/assets/Off01.png" height="500px" width="500px">
+            </div>
+            <div class="box2">
+                <img src="file:///C:/Users/Anshu/Desktop/Website/Website/assets/Off02.png" height="250px" width="700px">
+            </div>
+            <div class="box3">
+                <img src="file:///C:/Users/Anshu/Desktop/Website/Website/assets/Off03.png" height="250px" width="700px">
+            </div>
+        </div>
+    </body>
+</html>
